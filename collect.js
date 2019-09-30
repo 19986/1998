@@ -8,7 +8,7 @@ var dcys = {
 		}]
 	},
 	'advs': {
-		'head': '广告投放 >>> 官方QQ群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5UIPDzc">137183109</a> >>> 业务QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1570457334&site=qq&menu=yes">1570457334</a> >>>',
+		'head': '广告投放 >>> 官方QQ群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5UIPDzc">137183109</a> >>> 业务QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1570457334&site=qq&menu=yes">957768090</a> >>>',
 		'tips': '如果对您的资源站排序有误,请联系我修改',
 		'rows': [{
 			'name': '苹果CMS大橙影视模板',
